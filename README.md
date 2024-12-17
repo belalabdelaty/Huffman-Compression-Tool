@@ -1,4 +1,3 @@
-# Huffman-Compression-Tool
 # File Compression Tool (Huffman Coding)
 
 This project implements a **File Compression Tool** using **Huffman Coding**. It provides an easy-to-use GUI built with `customtkinter` for compressing and decompressing text files using Huffman coding.
